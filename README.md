@@ -1,0 +1,1 @@
+Exécutez le fichier "[PopulateDBs(RUN_ONCE).php](https://github.com/SaucyFlatSix/application-web-gestionaire-emplois-du-temps-simple-avec-en-PHP/blob/main/PopulateDBs(RUN_ONCE).php)" avant d'exécuter l'application Web.
